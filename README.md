@@ -6,11 +6,14 @@ Dataset
 "customerpurchase.csv" includes:
 ->CustomerID: Unique customer identifier
 
-
 ->SalesDate: Date of purchase
+
 ->Category: Product category
+
 ->Product: Product name
+
 ->CustomerReview: Review rating
+
 ->Month: Month of purchase
 
 
