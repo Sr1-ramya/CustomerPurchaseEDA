@@ -20,11 +20,30 @@ Analysis
 ->Visualize distributions using Seaborn and Plotly.
 4.Customer Segmentation: Group by purchase count and visualize the results.
 
+
+
+
+
+
+
 Visualizations
+
+
+
+
 
 Product Segmentation
 
+
+
+
+
+
 Customer Segmentation
+
+
+
+
 
 Conclusion
 The analysis provides insights into purchasing behavior and customer segmentation.
