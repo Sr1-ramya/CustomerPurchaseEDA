@@ -4,6 +4,7 @@ This project performs exploratory data analysis (EDA) on the customerpurchase.cs
 
 Dataset
 "customerpurchase.csv" includes:
+
 ->CustomerID: Unique customer identifier
 
 ->SalesDate: Date of purchase
@@ -18,11 +19,15 @@ Dataset
 
 
 Analysis
+
 1.Data Exploration: Examine dataset structure, data types, and null values.
+
 2.Data Cleaning: Remove duplicates and convert data types as needed.
+
 3.EDA:
 ->Analyze value counts for CustomerReview, Month, and CustomerID.
 ->Visualize distributions using Seaborn and Plotly.
+
 4.Customer Segmentation: Group by purchase count and visualize the results.
 
 
