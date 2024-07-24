@@ -5,6 +5,8 @@ This project performs exploratory data analysis (EDA) on the customerpurchase.cs
 Dataset
 "customerpurchase.csv" includes:
 ->CustomerID: Unique customer identifier
+
+
 ->SalesDate: Date of purchase
 ->Category: Product category
 ->Product: Product name
