@@ -18,7 +18,7 @@ Dataset
 ->Month: Month of purchase
 
 
-Analysis
+Analysis:
 
 1.Data Exploration: Examine dataset structure, data types, and null values.
 
@@ -57,6 +57,6 @@ Customer Segmentation
 
 
 
-Conclusion
+Conclusion:
 
 The analysis provides insights into purchasing behavior and customer segmentation.
